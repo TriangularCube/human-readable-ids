@@ -33,18 +33,6 @@ have words which are easy to pronounce and spell.
 Usage
 =======
 
-### npm
-
-```bash
-# from npm
-npm install --save human-readable-ids
-```
-
-```bash
-# directly from git
-npm install --save https://git.coolaj86.com/coolaj86/human-readable-ids.js.git
-```
-
 ```javascript
 'use strict';
 
@@ -55,19 +43,6 @@ var i;
 for (i = 0; i < 100; i += 1) {
   console.log(hri.random());
 }
-```
-
-### bower / browser
-
-```
-bower install --save human-readable-ids
-```
-
-```html
-    <script src="bower_components/knuth-shuffle/index.js"></script>
-    <script src="bower_components/human-readable-ids/assets/animals.js"></script>
-    <script src="bower_components/human-readable-ids/assets/adjectives.js"></script>
-    <script src="bower_components/human-readable-ids/index.js"></script>
 ```
 
 ```javascript
@@ -125,9 +100,3 @@ Acheive 1 trillion ids with a combination such as
 `number adjective noun verb adverb`
 
 `42-red-foxes-run-quickly`
-
-And allow choosing various formats based on the desired
-number of ids.
-
-  * `adjective noun number`
-  * `number adjective noun verb`
