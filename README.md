@@ -1,5 +1,5 @@
-This is a fork and archive of CoolAJ87's project from https://git.coolaj86.com/coolaj86/human-readable-ids.js
-I've made my own implementation at https://github.com/TriangularCube/simple-human-ids and am slowly working on it
+This is a fork and archive of CoolAJ87's project from https://git.coolaj86.com/coolaj86/human-readable-ids.js  
+I've made my own implementation at https://github.com/TriangularCube/simple-human-ids and am slowly working on it  
 
 human-readable-ids-js
 =====================
